@@ -72,3 +72,4 @@ npm start
 - `GET /api/products/analytics/top-reviewed`
 - `GET /api/products/analytics/discount-distribution`
 - `GET /api/products/analytics/category-avg-rating`
+
